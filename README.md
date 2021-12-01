@@ -1,2 +1,2 @@
 # codebookbeamforming
-Programas dissertação Jonas Nunes - UERJ (2021) 
+Sobre o Projeto de Codebooks paraBeamforming por Terminais Móveis em Sistemas MIMO
